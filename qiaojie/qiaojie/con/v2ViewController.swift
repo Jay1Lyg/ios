@@ -15,7 +15,7 @@ class v2ViewController: WMPageController {
         super.viewDidLoad()
         view.backgroundColor = UIColor.white
         navigationController?.navigationBar.barTintColor = UIColor.white
-        self.titles = ["Hello", "World"]
+        self.titles = ["tab1", "tab2"]
         self.viewControllerClasses = [v4ViewController.self, ViewController.self]
         self.showOnNavigationBar = true
         self.postNotification = true  //
