@@ -764,7 +764,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = c.trains;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/design/Desktop/note/willdemo/train/trains/trains/trains-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/design/Desktop/ios/train/trains/trains/trains-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -784,7 +784,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = c.trains;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/design/Desktop/note/willdemo/train/trains/trains/trains-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/design/Desktop/ios/train/trains/trains/trains-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
