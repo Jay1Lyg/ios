@@ -1,6 +1,0 @@
-framework module Pods_qiaojie {
-  umbrella header "Pods-qiaojie-umbrella.h"
-
-  export *
-  module * { export * }
-}
