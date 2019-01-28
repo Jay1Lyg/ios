@@ -1,0 +1,11 @@
+platform :ios, '9.0'
+inhibit_all_warnings!
+target 'qiaojie' do
+    use_frameworks!
+    pod 'Moya'
+    pod 'RxSwift', '4.0.0'
+    pod 'RxDataSources', '3.0'
+    pod 'RxCocoa', '4.0.0'
+    pod 'SwiftyJSON'
+    pod 'WMPageController', '2.4.0'
+end
